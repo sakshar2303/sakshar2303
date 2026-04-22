@@ -1,34 +1,41 @@
 <!-- ============================================================
-     SAKSHAR DHAWAN — GitHub Profile README v2.0 (Enhanced)
+     SAKSHAR DHAWAN — GitHub Profile README v3.0 (Bug Fixed)
      ============================================================ -->
 
-<!-- ───────────────────── HERO BANNER ───────────────────── -->
+<!-- ───────────────────── HERO HEADER ───────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sakshar%20Dhawan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Open%20Source%20Contributor%20%7C%20API%20%26%20Backend%20Dev&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&height=70&lines=Hey%2C+I'm+Sakshar+Dhawan+%F0%9F%91%8B;Software+Engineering+Student;API+%26+Backend+Developer;Open+Source+Contributor+%F0%9F%94%93" alt="Typing SVG" />
+</h1>
+
+<p>
+  <em>"Ship real. Break things. Contribute upstream."</em>
+</p>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Sakshar+%F0%9F%91%8B;Software+Engineering+Student+%40+Scaler+%26+BITS+Pilani;API+%26+Backend+Developer;Open+Source+Contributor+%F0%9F%94%93;Ship+real.+Break+things.+Contribute+upstream.)](https://git.io/typing-svg)
-
-<br/>
-
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/sakshar-dhawan-683291294/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/Sakshar2303">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:sakshardhawanfzk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Sakshar2303&color=6EE7F7&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
+<!-- Quick stat pills -->
 ![](https://img.shields.io/badge/Open%20Source%20Contributions-30%2B-brightgreen?style=flat-square&logo=git)
 ![](https://img.shields.io/badge/Projects%20Shipped-10%2B-blue?style=flat-square)
-![](https://img.shields.io/badge/Meals%20Distributed%20%F0%9F%8D%9B-1000%2B-orange?style=flat-square)
+![](https://img.shields.io/badge/Meals%20Distributed-1000%2B-orange?style=flat-square)
 ![](https://img.shields.io/badge/Currently-Building%20in%20Public-blueviolet?style=flat-square&logo=github)
 
 </div>
@@ -39,7 +46,7 @@
 
 ## 🧬 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 
 ```python
 class SoftwareEngineer:
@@ -53,8 +60,8 @@ class SoftwareEngineer:
             "Open Source Contributor"
         ]
         self.education  = [
-            "BSc CS & AI @ Scaler (2025–2029)",
-            "BSc CS & AI  @ BITS Pilani (2025–2028)"
+            "BSc CS & AI @ Scaler School of Technology (2025–2029)",
+            "BSc CS & AI @ BITS Pilani (2025–2028)"
         ]
         self.interests  = [
             "API Architecture & Backend Systems",
@@ -95,31 +102,19 @@ class SoftwareEngineer:
 
 ---
 
-<!-- ───────────────────── GITHUB STATS GRID ───────────────────── -->
+<!-- ───────────────────── GITHUB STATS ───────────────────── -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshar2303&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=420" height="175"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sakshar2303&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar2303&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="175"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar2303&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Sakshar2303&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=700" />
-
-</div>
-
----
-
-<!-- ───────────────────── TROPHIES ───────────────────── -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshar2303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=Sakshar2303&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="600" />
 
 </div>
 
@@ -131,13 +126,13 @@ class SoftwareEngineer:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshar2303&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshar2303&theme=tokyonight" width="100%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshar2303&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakshar2303&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakshar2303&theme=tokyonight&utcOffset=5.5" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sakshar2303&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakshar2303&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakshar2303&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
 
@@ -188,7 +183,7 @@ class SoftwareEngineer:
 
 ---
 
-<!-- ───────────────────── SKILL PROFICIENCY ───────────────────── -->
+<!-- ───────────────────── SKILL BARS ───────────────────── -->
 
 ## 💡 Skill Proficiency
 
@@ -211,7 +206,7 @@ React / Frontend         ██████████████░░░░�
 
 <table width="100%">
   <tr>
-    <td width="40px" align="center">🔌</td>
+    <td width="36px" align="center">🔌</td>
     <td><b>Backend Systems</b> — Designing clean APIs with focus on reliability, scalability & clean architecture</td>
   </tr>
   <tr>
@@ -253,7 +248,7 @@ React / Frontend         ██████████████░░░░�
 | 🧠 **Nous** | LLM Memory | Resolved syntax errors & merge conflicts in core modules |
 | 🔄 **Protoflow** | C++ Frameworks | Updated README for AppBase, core libs & skeleton-app |
 | ⚡ **spawnverse** | AI Orchestration | Built fail-fast GROQ_API_KEY check in the Orchestrator |
-| 📁 **BeamSync** | File Transfer | Shipped real-time transfer progress tracking with speed & ETA |
+| 📁 **BeamSync** | File Transfer | Shipped real-time transfer progress with speed & ETA |
 | 🪙 **Intcoin** | Blockchain | Enhanced shell completions and RPC parameter suggestions |
 | 🗺️ **Chatvector-ai** | RAG Engine | Added /roadmap page to the frontend demo site |
 | 🌐 **DDP Backend** | Django / Backend | Contributed to Django app for the DDP data platform |
@@ -270,7 +265,7 @@ React / Frontend         ██████████████░░░░�
 
 ---
 
-<!-- ───────────────────── FEATURED PROJECTS ───────────────────── -->
+<!-- ───────────────────── PINNED PROJECTS ───────────────────── -->
 
 ## 🚀 Featured Projects
 
@@ -299,7 +294,7 @@ React / Frontend         ██████████████░░░░�
 
 ---
 
-<!-- ───────────────────── CONTRIBUTION SNAKE ───────────────────── -->
+<!-- ───────────────────── SNAKE — only shows after workflow runs ───────────────────── -->
 
 ## 🐍 Contribution Snake
 
@@ -308,38 +303,34 @@ React / Frontend         ██████████████░░░░�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshar2303/Sakshar2303/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sakshar2303/Sakshar2303/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sakshar2303/Sakshar2303/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Sakshar2303/Sakshar2303/output/github-contribution-grid-snake-dark.svg" />
 </picture>
-
-<sub>⚙️ Enable the snake by adding a GitHub Actions workflow — see <a href="https://github.com/platane/snk">platane/snk</a></sub>
 
 </div>
 
 ---
 
-<!-- ───────────────────── CODING JOURNEY ───────────────────── -->
+<!-- ───────────────────── JOURNEY TIMELINE ───────────────────── -->
 
-## 📅 Coding Journey Timeline
+## 📅 Coding Journey
 
 ```
-2020 ──┬── Started as Volunteer Coordinator @ Robin Hood Army
-       │   [Leadership · Coordination · Empathy at scale]
-       │
+2020 ──┬── Volunteer Coordinator @ Robin Hood Army
+       │   Leadership · Coordination · Empathy at scale
+
 2025 ──┼── Enrolled @ Scaler School of Technology & BITS Pilani
-       │   [Committed to CS + AI full-time]
-       │   [First web projects: Portfolio, Quiz Cards, Dice Roll, Rock Paper Scissors]
-       │
+       │   First web projects: Portfolio, Quiz Cards, Rock Paper Scissors
+
 Late   ┼── Built Education Web App (TypeScript), Book_Verse (JavaScript)
-2025   │   Sound Board (mid-term project), multiple frontend experiments
-       │
-Early  ┼── Shipped InsightLog App, Bio Authenticator, Community Aid (Swift / SwiftUI)
-2026   │   Entered open source world — first contributions merged 🎉
-       │
-Feb    ┼── Open Source Developer @ GitHub (Full-time Contributor)
-2026   │   30+ repos forked & contributed across AI, infra, blockchain, RAG
-       │   Shipped: StudyMate, Epicurean Recipes, DDP Backend contributions
-       │
-Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. 🚀
+2025   │   Sound Board mid-term project · multiple frontend experiments
+
+Early  ┼── Shipped InsightLog App, Bio Authenticator, Community Aid (SwiftUI)
+2026   │   Entered open source — first contributions merged 🎉
+
+Feb    ┼── Open Source Developer @ GitHub (Full-time)
+2026   │   30+ repos · AI agents · Kubernetes · blockchain · RAG
+
+Apr    ┴── ▶ HERE — Still building. Still shipping. Still learning. 🚀
 2026
 ```
 
@@ -355,17 +346,18 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
       <img src="https://img.shields.io/badge/GitHub-Open_Source_Developer-181717?style=for-the-badge&logo=github" />
     </td>
     <td>
-      <b>Feb 2026 – Present · Full-time · Remote, Bengaluru</b><br/>
-      Contributing across the full stack — AI agents, developer tooling, real-time systems & blockchain infrastructure. 30+ repositories, multiple merged contributions.
+      <b>Feb 2026 – Present · Full-time · Remote</b><br/>
+      Contributing across the stack — AI agents, developer tooling, real-time systems & blockchain infrastructure. 30+ repositories, multiple merged contributions.
     </td>
   </tr>
+  <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td>
       <img src="https://img.shields.io/badge/Robin_Hood_Army-Volunteer_Coordinator-FF6B35?style=for-the-badge" />
     </td>
     <td>
-      <b>Mar 2020 – Jul 2025 · 5 yrs · Punjab, India</b><br/>
-      Led volunteer ops for a zero-funds movement feeding the less fortunate using surplus food. Coordinated teams, logistics, and community outreach at scale.
+      <b>Mar 2020 – Jul 2025 · 5 years · Punjab, India</b><br/>
+      Led volunteer ops for a zero-funds movement feeding the less fortunate. Coordinated teams, logistics, and community outreach at scale.
     </td>
   </tr>
 </table>
@@ -378,10 +370,9 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
 
 <table width="100%">
   <tr>
-    <td width="40px" align="center">🏛️</td>
+    <td width="36px" align="center">🏛️</td>
     <td>
-      <b>Scaler School of Technology</b> — BSc Computer Science & Artificial Intelligence<br/>
-      <i>Jul 2025 – Jul 2029</i><br/>
+      <b>Scaler School of Technology</b> — BSc Computer Science & AI &nbsp;·&nbsp; <i>Jul 2025 – Jul 2029</i><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/API_Development-009688?style=flat-square"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -390,8 +381,7 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
   <tr>
     <td align="center">🏛️</td>
     <td>
-      <b>BITS Pilani</b> — BSc Computer Science & AI<br/>
-      <i>Aug 2025 – Aug 2028</i><br/>
+      <b>BITS Pilani</b> — BSc Computer Science & AI &nbsp;·&nbsp; <i>Aug 2025 – Aug 2028</i><br/>
       <img src="https://img.shields.io/badge/Computer_Engineering-326CE5?style=flat-square"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
@@ -400,7 +390,7 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
 
 ---
 
-<!-- ───────────────────── RANDOM DEV QUOTE ───────────────────── -->
+<!-- ───────────────────── QUOTE ───────────────────── -->
 
 ## 💬 Dev Philosophy
 
@@ -414,7 +404,7 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
 
 <!-- ───────────────────── CONNECT ───────────────────── -->
 
-## 🤝 Let's Connect & Build Together
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -432,20 +422,14 @@ Apr    ┴── ▶ HERE → Still building. Still shipping. Still learning. �
 
 <br/><br/>
 
-> 💡 *"If you're building something in the open or want to talk APIs, backend architecture, or open source — let's connect."*
+> *"If you're building something in the open or want to talk APIs, backend architecture, or open source — let's connect."*
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sakshar2303&color=6EE7F7&style=flat-square&label=Profile+Views" />
 
-</div>
+<br/><br/>
 
-<!-- ───────────────────── FOOTER ───────────────────── -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-**⭐ If you find my work helpful, consider starring a repo — it means the world! ⭐**
+**⭐ If you find my work helpful, star a repo — it means the world! ⭐**
 
 </div>
