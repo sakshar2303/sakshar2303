@@ -53,15 +53,14 @@ class SoftwareEngineer:
     def __init__(self):
         self.name       = "Sakshar Dhawan"
         self.pronouns   = "He / Him"
-        self.location   = "Fazilka, Punjab, India 🇮🇳"
+        self.location   = "Bangalore , India 🇮🇳"
         self.role       = [
             "Software Engineering Student",
             "API & Backend Developer",
             "Open Source Contributor"
         ]
         self.education  = [
-            "BSc CS & AI @ Scaler School of Technology (2025–2029)",
-            "BSc CS & AI @ BITS Pilani (2025–2028)"
+            "BSc CS & AI @ BITS Pilani"
         ]
         self.interests  = [
             "API Architecture & Backend Systems",
