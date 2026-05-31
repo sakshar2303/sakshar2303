@@ -136,6 +136,7 @@ class SoftwareEngineer:
 </div>
 
 ---
+<img width="1920" height="640" alt="image" src="https://github.com/user-attachments/assets/e73b1411-e7cc-4039-b279-5fc650e2ad02" />
 
 <!-- ───────────────────── TECH ARSENAL ───────────────────── -->
 
@@ -400,6 +401,7 @@ Apr    ┴── ▶ HERE — Still building. Still shipping. Still learning. �
 </div>
 
 ---
+
 
 <!-- ───────────────────── CONNECT ───────────────────── -->
 
