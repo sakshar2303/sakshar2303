@@ -86,16 +86,20 @@ class SoftwareEngineer:
 
 ## 🚀 Featured Projects
 
-- **[studymate](https://github.com/Sakshar2303/studymate)**
-- **[epicurean-recipes](https://github.com/Sakshar2303/epicurean-recipes)**
-- **[InsightLog_App](https://github.com/Sakshar2303/InsightLog_App)**
-- **[Community_Aid_1.0](https://github.com/Sakshar2303/Community_Aid_1.0)**
-- **[Bio_Authenticator_App](https://github.com/Sakshar2303/Bio_Authenticator_App)**
-- **[Education_Web_App](https://github.com/Sakshar2303/Education_Web_App)**
+**[Hisaab Sathi](https://github.com/sakshar2303/Vyapaar_Sathi)** *(formerly Vyapaar Sathi)*
+AI-powered financial tool for Indian kirana/MSME owners — digitizes handwritten business diaries via photo-based OCR. Built with Next.js, Claude Vision for OCR, and Supabase; includes a voice ledger, udhaar/credit tracking with WhatsApp reminders, and multi-sheet GSTR Excel export.
+
+**[contextSync](https://github.com/Sakshar2303/contextSync)**
+AI session context archival & sync platform for dev teams, built in TypeScript.
+
+**[Titan-Command-v21](https://github.com/Sakshar2303/Titan-Command-v21)**
+A reinforcement learning environment project built around a real-world use case.
+
+**[studymate](https://github.com/Sakshar2303/studymate)** · **[epicurean-recipes](https://github.com/Sakshar2303/epicurean-recipes)** · **[InsightLog_App](https://github.com/Sakshar2303/InsightLog_App)** · **[Community_Aid_1.0](https://github.com/Sakshar2303/Community_Aid_1.0)** · **[Bio_Authenticator_App](https://github.com/Sakshar2303/Bio_Authenticator_App)** · **[Education_Web_App](https://github.com/Sakshar2303/Education_Web_App)**
 
 ---
 
-## 💼 Experience
+## 💼 Leadership & Experience
 
 **Open Source Developer** — *Feb 2026 – Present*
 Contributing across the stack: AI agents, developer tooling, real-time systems, and infrastructure.
