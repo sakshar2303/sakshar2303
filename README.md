@@ -1,16 +1,23 @@
 <!-- ============================================================
-     SAKSHAR DHAWAN — GitHub Profile README (Minimal)
+     SAKSHAR DHAWAN — GitHub Profile README (Minimal + Interactive)
      ============================================================ -->
 
 <div align="center">
 
-# Sakshar Dhawan
-
-Software Engineering Student · API & Backend Developer · Open Source Contributor
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6EE7F7&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Sakshar+Dhawan;Backend+%26+API+Developer;Open+Source+Contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshar-dhawan-683291294/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshar2303)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshardhawanfzk@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Sakshar2303&color=6EE7F7&style=flat-square&label=Profile+Views" />
+
+<p>
+<a href="#about">About</a> ·
+<a href="#tech-stack">Tech Stack</a> ·
+<a href="#open-source">Open Source</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#experience">Experience</a>
+</p>
 
 </div>
 
@@ -26,6 +33,10 @@ BSc Computer Science & AI student at BITS Pilani (affiliated with Scaler School 
 
 ## Tech Stack
 
+<details open>
+<summary><b>Languages, frameworks & tools</b></summary>
+<br/>
+
 **Languages:** Python, TypeScript, JavaScript, C/C++, Swift
 
 **Backend & Frameworks:** Node.js, Express, Django, FastAPI, React, Next.js
@@ -34,11 +45,15 @@ BSc Computer Science & AI student at BITS Pilani (affiliated with Scaler School 
 
 **Tools & Infra:** Git, Docker, Kubernetes, Linux, OpenTelemetry
 
+</details>
+
 ---
 
 ## Open Source
 
-Selected contributions across developer tooling, AI agents, and infrastructure:
+<details open>
+<summary><b>Selected contributions</b> — click to expand</summary>
+<br/>
 
 | Project | Domain | Contribution |
 |---|---|---|
@@ -52,16 +67,29 @@ Selected contributions across developer tooling, AI agents, and infrastructure:
 
 *30+ repositories forked and contributed to.*
 
+</details>
+
 ---
 
-## Featured Projects
+## Projects
 
-- **[studymate](https://github.com/Sakshar2303/studymate)**
-- **[epicurean-recipes](https://github.com/Sakshar2303/epicurean-recipes)**
-- **[InsightLog_App](https://github.com/Sakshar2303/InsightLog_App)**
-- **[Community_Aid_1.0](https://github.com/Sakshar2303/Community_Aid_1.0)**
+<div align="center">
+
+<a href="https://github.com/Sakshar2303/studymate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshar2303&repo=studymate&theme=default&hide_border=true" width="45%" /></a>
+<a href="https://github.com/Sakshar2303/epicurean-recipes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshar2303&repo=epicurean-recipes&theme=default&hide_border=true" width="45%" /></a>
+<a href="https://github.com/Sakshar2303/InsightLog_App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshar2303&repo=InsightLog_App&theme=default&hide_border=true" width="45%" /></a>
+<a href="https://github.com/Sakshar2303/Community_Aid_1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sakshar2303&repo=Community_Aid_1.0&theme=default&hide_border=true" width="45%" /></a>
+
+</div>
+
+<details>
+<summary>More projects</summary>
+<br/>
+
 - **[Bio_Authenticator_App](https://github.com/Sakshar2303/Bio_Authenticator_App)**
 - **[Education_Web_App](https://github.com/Sakshar2303/Education_Web_App)**
+
+</details>
 
 ---
 
@@ -82,9 +110,13 @@ Led volunteer operations for a zero-funds movement supporting food redistributio
 
 ---
 
+## Activity
+
 <div align="center">
 
-**GitHub Stats**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshar2303&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshar2303&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar2303&layout=compact&theme=default&hide_border=true" />
