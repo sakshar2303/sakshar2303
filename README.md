@@ -4,12 +4,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6EE7F7&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Sakshar+Dhawan;Backend+%26+API+Developer;Open+Source+Contributor" alt="Typing SVG" />
+# Sakshar Dhawan
+
+Software Engineering Student · API & Backend Developer · Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshar-dhawan-683291294/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshar2303)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshardhawanfzk@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Sakshar2303&color=6EE7F7&style=flat-square&label=Profile+Views" />
 
 <p>
 <a href="#about">About</a> ·
@@ -110,13 +111,9 @@ Led volunteer operations for a zero-funds movement supporting food redistributio
 
 ---
 
-## Activity
+## Stats
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshar2303&theme=react-dark&hide_border=true&area=true" width="100%" />
-
-<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshar2303&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshar2303&layout=compact&theme=default&hide_border=true" />
